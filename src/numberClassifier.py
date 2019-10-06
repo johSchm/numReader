@@ -1,8 +1,10 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 """
 description:    ---
 author:         Johann Schmidt
 date:           October 2019
-refs.:          https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/
 """
 
 import tensorflow as tf

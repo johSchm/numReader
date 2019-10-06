@@ -1,6 +1,12 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+"""
+description:    ---
+author:         Johann Schmidt
+date:           October 2019
+"""
+
 import tkinter as tk
 import turtle
 import time

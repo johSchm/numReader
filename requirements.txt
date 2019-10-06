@@ -1,6 +1,7 @@
+matplotlib
 tensorflow
 pillow
 numpy
-tkinter
-time
+tk
 opencv-python
+pyscreenshot

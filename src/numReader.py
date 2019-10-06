@@ -1,3 +1,11 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+"""
+description:    ---
+author:         Johann Schmidt
+date:           October 2019
+"""
 
 import numberClassifier as nc
 import freeDraw as draw
@@ -18,7 +26,7 @@ def predict_number(_classifier, _drawapp):
 if __name__ == '__main__':
     """ Main method.
     """
-    classifier = nc.NumberClassifier(load_existing_model=True)
+    classifier = nc.NumberClassifier(load_existing_model=False)
     app = draw.FreeDrawingApp(parent=win.Window(), pensize=30)
     app.run(
         interrupt_method=predict_number, interrupt_interval=5,
