@@ -5,7 +5,7 @@ This python tool utilizes a simple feed forward neural network to predict drawn 
 ---
 
 ## Installation
-The Installation process is quit straightforward. Its donw by issuing the following command in the command line in Linux:
+The Installation process is quit straightforward. Its done by issuing the following command in the command line in Linux:
 ```
 bash install.sh
 ```
